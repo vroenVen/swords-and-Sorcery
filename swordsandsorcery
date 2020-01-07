@@ -2,7 +2,7 @@
 <html>
 <title>Swords & Sorcery</title>
 <h1>Swords & Sorcery</h1>
-<p><button>Fighter</button><button>Mage</button><button>Thief</button></p>
+<button>Fighter</button>	<button>Mage</button>	<button>Thief</button>
 <script>
 	var curentHero = null;
 	hero = function(a,b,c,d){
